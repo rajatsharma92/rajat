@@ -1,0 +1,25 @@
+#header
+{
+	background-color:#fff;font:top;height:100px;width:938px;margin;right;
+}
+
+#left
+{
+        background-color:#fff;font:left;height:530px;width:100px;float:left;
+}
+
+#right
+{
+	background-color:#fff;font:right;height:530px;width:100px;float:right;
+}
+
+#bottom
+{
+	background-color:#fff;font:left;height:100px;width:938px
+}
+
+#center
+{
+	background-color:#fff;height:530px;width:830px;
+}
+
